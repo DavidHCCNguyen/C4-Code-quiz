@@ -9,7 +9,19 @@ and then adding the questions to them with classes and ids to change what they d
 styles is mostly for the basic colours of the html or scripts (No effect)
 
 two scripts to serve as the main websites function and the other to actually save
-the high scores
+the high scores.
+
+the initals gets saved and stored locally so that's good.
+
+https://davidhccnguyen.github.io/Code-quiz/
+
+https://github.com/DavidHCCNguyen/Code-quiz
+
+<img src="First.png">
+
+<img src="Second.png">
+
+<img src="Third.png">
 
 ## User Story
 
