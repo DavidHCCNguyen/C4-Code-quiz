@@ -1,28 +1,43 @@
 var questions = [
     {
+        title: "Question one: What is HTML?",
+        choices: ["Abbreviation for HyperText Markup Language", 
+        "abbreviation for HyperTalk Mac Language",
+        "abbreviation for HyperText Mark Language",
+         "abbreviation for Hell's Markings of the Land"],
+        answer: "Abbreviation for HyperText Markup Language"
+    },
+    {
         title: "Question two: What are HTML tags?",
-        choices: ["a", "b", "c", "d"],
+        choices: ["HTML tags are like Notes",
+         "HTML tags are like Keywords", 
+         "HTML tags are like Memoirs", 
+         "HTML tags are like Texts"],
         answer: "b"
     },
     {
-        title: "Question Ahhg: What are HTML tags?",
-        choices: ["a", "b", "c", "d"],
-        answer: "b"
+        title: "Question three: How do you separate a section of texts in HTML?",
+        choices: ["<log>", 
+        "<sub>", 
+        "<Push>", 
+        "<p>"],
+        answer: "<p>"
     },
     {
-        title: "Question twodwda: What are HTML tags?",
-        choices: ["a", "b", "c", "d"],
-        answer: "b"
+        title: "Question four: How do you align list elements in an HTML file?",
+        choices: ["with the CSS text-align property", 
+        "with the JS properties", 
+        "with multiple layers of HTMLS", 
+        "with console.log"],
+        answer: "with the CSS text-align property"
     },
     {
-        title: "Question beano: What are HTML tags?",
-        choices: ["a", "b", "c", "d"],
-        answer: "b"
-    },
-    {
-        title: "Question Godo: What are HTML tags?",
-        choices: ["a", "b", "c", "d"],
-        answer: "b"
+        title: "Question five: Differentiate between an Ordered list and an Unordered list?",
+        choices: ["An unordered list is Ul while the ordered list is Ol", 
+        "the making of the style", 
+        "the changes from within the html via divs", 
+        "because-"],
+        answer: "An unordered list is Ul while the ordered list is Ol"
     },
 ]
 

@@ -6,7 +6,10 @@ I need to create a quiz with html, script, and style-
 html requires little to add other then connecting the styles and scripts to it
 and then adding the questions to them with classes and ids to change what they do.
 
-styles is mostly for the basic colours of the 
+styles is mostly for the basic colours of the html or scripts (No effect)
+
+two scripts to serve as the main websites function and the other to actually save
+the high scores
 
 ## User Story
 
