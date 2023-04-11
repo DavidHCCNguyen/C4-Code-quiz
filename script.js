@@ -44,7 +44,9 @@ function start() {
     var startScreen = document.getElementById("startscreen");
     // adds the class hidden at the start screen
     startScreen.setAttribute("class", "hidden");
+    // removes the class which also removes hidden
     questionEl.removeAttribute("class");
+    // Starts the timer, 60 seconds and going down
     timeId = setInterval(clockTick, 1000);
     timerEl.textContent=time;
     getQuestion();
